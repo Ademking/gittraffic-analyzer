@@ -1,0 +1,5 @@
+{
+  "name": "GitTraffic Analyzer",
+  "description": "Visualize GitHub repository traffic and referrer data with interactive charts and insights.",
+  "requestFramePermissions": []
+}
