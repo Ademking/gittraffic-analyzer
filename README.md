@@ -1,6 +1,8 @@
 # GitTraffic Analyzer
 
-GitTraffic Analyzer is a tiny app that helps you understand how people find your GitHub repositories. It shows traffic and referrer stats in a clean, easy-to-use dashboard—right from your browser.
+GitTraffic Analyzer is a tiny app that helps you understand how people find your GitHub repositories. It shows traffic and referrer stats in a clean, easy-to-use dashboard right from your browser.
+
+You can try it here: [https://ademking.github.io/gittraffic-analyzer/](https://ademking.github.io/gittraffic-analyzer/)
 
 ![GitTraffic Analyzer Screenshot](screenshot.png)
 
